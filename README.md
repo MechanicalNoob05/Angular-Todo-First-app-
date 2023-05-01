@@ -1,27 +1,40 @@
-# Todoapp
+# Todo App 
+---
+This is a simple todo app that allows you to create and manage your daily tasks.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+### Demo 
+---
+![caption](./Readme Files/SS.gif)
 
-## Development server
+! [SS] (./Readme Files/Screenshot 2023-05-02 at 00-43-18 Todoapp.png)
+---
+### Features 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Create a new task
+- Mark a task as completed
+- Delete a task
+- View all tasks
+- View only completed tasks
+- View only incomplete tasks
 
-## Code scaffolding
+### Technologies Used 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular
 
-## Build
+### Installation 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Clone this repository.
+- Open the index.html file in your web browser.
 
-## Running unit tests
+### Usage 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- To create a new task, enter a task name in the input field and click on the "Add" button.
+- To mark a task as completed, click on the checkbox next to the task.
+- To delete a task, click on the "Delete" button next to the task.
+- To view all tasks, click on the "All" button.
+- To view only completed tasks, click on the "Completed" button.
+- To view only incomplete tasks, click on the "Incomplete" button.
 
-## Running end-to-end tests
+### Acknowledgements 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This app was created as part of a tutorial on building a todo app.
