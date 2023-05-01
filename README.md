@@ -1,6 +1,6 @@
 # Todo App 
 ---
-This is a simple todo app that allows you to create and manage your daily tasks.
+This is a simple todo app that allows you to create and manage your daily tasks.This is also my first attempt in making an functional web app using Angular.Js FrameWork. 
 
 ### Demo 
 ---
@@ -21,11 +21,6 @@ This is a simple todo app that allows you to create and manage your daily tasks.
 
 - Angular
 
-### Installation 
-
-- Clone this repository.
-- Open the index.html file in your web browser.
-
 ### Usage 
 
 - To create a new task, enter a task name in the input field and click on the "Add" button.
@@ -34,6 +29,11 @@ This is a simple todo app that allows you to create and manage your daily tasks.
 - To view all tasks, click on the "All" button.
 - To view only completed tasks, click on the "Completed" button.
 - To view only incomplete tasks, click on the "Incomplete" button.
+
+### Future Planning 
+
+- Make it Persitant
+- Create Cloud Integration
 
 ### Acknowledgements 
 
