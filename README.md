@@ -4,9 +4,11 @@ This is a simple todo app that allows you to create and manage your daily tasks.
 
 ### Demo 
 ---
-![caption](SS.gif)
 
 ![SS](SS.png)
+
+![caption](SS.gif)
+
 ---
 ### Features 
 
