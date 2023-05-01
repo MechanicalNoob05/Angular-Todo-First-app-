@@ -6,7 +6,7 @@ This is a simple todo app that allows you to create and manage your daily tasks.
 ---
 ![caption](./Readme Files/SS.gif)
 
-! [SS] (./Readme Files/Screenshot 2023-05-02 at 00-43-18 Todoapp.png)
+![SS] (./Readme Files/Screenshot 2023-05-02 at 00-43-18 Todoapp.png)
 ---
 ### Features 
 
